@@ -11,6 +11,7 @@ package midtermreviewcodeforpartc;
  * @author dancye, 2019
  */
 //comment added by elnaz
+//date 6/19/2023
 public class User 
 {
     private String name;
