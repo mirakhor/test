@@ -10,6 +10,7 @@ package midtermreviewcodeforpartc;
  * The user has a name and a password.
  * @author dancye, 2019
  */
+//comment added by elnaz
 public class User 
 {
     private String name;
