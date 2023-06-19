@@ -10,10 +10,12 @@ package midtermreviewcodeforpartc;
  * The user has a name and a password.
  * @author dancye, 2019
  */
+//comment added by elnaz
 public class User 
 {
     private String name;
     private String password;
+    
     
     /**
      * a constructor that takes in the user's name and password
